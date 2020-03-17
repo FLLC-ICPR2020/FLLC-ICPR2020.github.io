@@ -26,7 +26,7 @@
       <pubDate>Wed, 11 Mar 2020 21:01:41 +0800</pubDate>
       
       <guid>https://FLLC-ICPR2020.github.io/home/</guid>
-      <description>Latest News  The 2nd grand challenge of 106-point facial landmark localization will be held in conjunction with the International Conference on Pattern Recognition (ICPR) 2020, Milan, Italy.To prevent cheating on the test set, the test images will be released on June 24, 2020 [00:00 a.m. UTC+1], and each team will have 24 hours to predict the test results. Both the predicted test results and the training materials (codes, models and technical reports) need to be sent to us before June 25, 2020 [00:00 a.</description>
+      <description>Latest News  The 2nd grand challenge of 106-point facial landmark localization will be held in conjunction with the International Conference on Pattern Recognition (ICPR) 2020, Milan, Italy.We will announce the registration URL on March 30, 2020.  Overview Facial landmark localization is a very crucial step in numerous face related applications, such as face alignment for recognition, facial pose estimation, face image synthesis, etc. We are hosting the 2nd 106-point facial landmark localization competition in conjunction with ICPR 2020.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       
       <guid>https://FLLC-ICPR2020.github.io/dataset/</guid>
       <description>Training data The dataset is an incremental of JD-landmark [1-7], consisting of about 20,000 images with 106-point landmark annotation. The images and landmarks will be released on March 30, 2020.
-Validation data It consists of 2,000 images, covering large variations of pose, expression and occlusion, are selected from open source web face dataset [8]. The images will be released on April 7, 2020.
+Validation data It consists of 2,000 images, covering large variations of pose, expression and occlusion, are selected from open source web face dataset [8]. The images without ground truth will be released on April 7, 2020.
 Test data It contains 2,000 web face images as well.</description>
     </item>
     
@@ -46,7 +46,7 @@ Test data It contains 2,000 web face images as well.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://FLLC-ICPR2020.github.io/evaluation/</guid>
-      <description>Detail Requirements  The upper bound of computational complexity is 1 GFLOPs. The upper bound of model size is 20MB. We provide the bounding boxes obtained by our detector for training/validation/test sets. The participants are also allowed to employ their own face detectors. Except for the face detectors, any external datasets and models are not allowed. Any test augmentation and multi-model ensemble strategy is also not allowed. During the validation phase, participants need send the landmark files (.</description>
+      <description>Detail Requirements  The upper bound of computational complexity is 1 GFLOPs. The upper bound of model size is 20MB. We provide the bounding boxes obtained by our detector for training/validation/test sets. The participants are also allowed to employ their own face detectors. Except for the face detectors, any external datasets and models are not allowed. Any test augmentation and multi-model ensemble strategy is also not allowed. During the validation phase, each team could send a compressed file (.</description>
     </item>
     
     <item>
