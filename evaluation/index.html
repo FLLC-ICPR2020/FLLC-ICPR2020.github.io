@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Hugo 0.67.0" />
+  <link rel="stylesheet" href="https://FLLC-ICPR2020.github.io/css/normalize.css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  
+  
+  
+  <link rel="stylesheet" href="https://FLLC-ICPR2020.github.io/css/cayman.e3f4a47188de20fa83b72d93da0a882e2bc1c880a410270f11b1bc297fb0603d.css">
+  
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+  <title> | FLLC-ICPR2020</title>
+</head>
+
+<body>
+  <section class="page-header">
+  <h1 class="project-name">
+    2<!-- raw HTML omitted -->nd<!-- raw HTML omitted --> Grand Challenge of 106-Point Facial Landmark Localization
+  </h1>
+  <h2 class="project-tagline">
+    ICPR 2020, Milan,Italy,13 Sep,2020
+  </h2>
+  <nav>
+    
+    
+      
+      
+      
+      
+      <a href="/home/" class="btn">Home</a>
+    
+      
+      
+      
+      
+      <a href="/dataset/" class="btn">Datasets</a>
+    
+      
+      
+      
+      
+      <a href="/evaluation/" class="btn">Evaluation</a>
+    
+      
+      
+      
+      
+      <a href="/leaderboard/" class="btn">Leaderboard</a>
+    
+  </nav>
+</section>
+
+  <section class="main-content">
+    
+  <h1></h1>
+  <h2 id="detail-requirements">Detail Requirements</h2>
+<ul>
+<li>The upper bound of computational complexity is 1 GFLOPs.</li>
+<li>The upper bound of model size is 20MB.</li>
+<li>We provide the bounding boxes obtained by our detector for training/validation/test sets. The participants are also allowed to employ their own face detectors.</li>
+<li>Except for the face detectors, any external datasets and models are not allowed. Any test augmentation and multi-model ensemble strategy is also not allowed.</li>
+<li>During the validation phase, participants need send the landmark files (.txt) with the same format of the training data to <a href="mailto:FLLC_ICPR2020@163.com">FLLC_ICPR2020@163.com</a>, and we will return the results to the participants and update the leaderboard. Each team can only submit once per day. One can refer to the Grand Challenge website for the evaluation metric.</li>
+<li>The test images will be released on June 24, 2020 [00:00 a.m. UTC+1], and each team will have 24 hours to predict the test results. Both the predicted test results and the training materials (codes, models and technical reports) need to be sent to us before June 25, 2020 [00:00 a.m. UTC+1]. We will re-implement the method to verify the correctness. Any team whose results that we cannot reproduce will be disqualified.</li>
+</ul>
+<h2 id="evaluation-criterion">Evaluation Criterion</h2>
+<p>Submissions will be evaluated on the area-under-the-curve (AUC) from the cumulative errors distribution (CED) curves. Besides, further statistics from the CED curves such as the failure rate and average normalized mean error (NME) will also be returned to the participants for inclusion in their papers.
+The cumulative curve corresponding to the percentage of test images of which the error is less than a threshold alpha will be produced. The area-under-the-curve (AUC) is the area under the cumulative distribution curve calculated up to the threshold alpha, then divided by that threshold. We set the value of alpha to be 0.08. Similarly, we regard each image with a Normalized Mean Error (NME) larger than alpha as failure. NME is computed as:</p>
+<p><img src="https://FLLC-ICPR2020.github.io/pic/NME.png" alt=""></p>
+<p>where x denotes the ground truth landmarks for a given face, y denotes the corresponding prediction and d is computed as d=sqrt(width_bbox*height_bbox). Here, width_bbox and width_bbox are the width and height of the enclosing rectangle of the ground truth landmarks.</p>
+
+
+    <footer class="site-footer">
+  <span class="site-footer-credits">
+    
+  </span>
+</footer>
+
+  </section>
+  
+  
+
+</body>
+</html>
