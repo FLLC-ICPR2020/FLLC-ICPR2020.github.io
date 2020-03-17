@@ -17,7 +17,7 @@
       <pubDate>Fri, 13 Mar 2020 00:01:07 +0800</pubDate>
       
       <guid>https://FLLC-ICPR2020.github.io/post/home/</guid>
-      <description>Latest News  The 2nd grand challenge of 106-point facial landmark localization will be held in conjunction with the International Conference on Pattern Recognition (ICPR) 2020, Milan, Italy.We will announce the registration URL on March 30, 2020.  Overview Facial landmark localization is a very crucial step in numerous face related applications, such as face alignment for recognition, facial pose estimation, face image synthesis, etc. We are hosting the 2nd 106-point facial landmark localization competition in conjunction with ICPR 2020.</description>
+      <description>Latest News  The 2nd grand challenge of 106-point facial landmark localization will be held in conjunction with the International Conference on Pattern Recognition (ICPR) 2020, Milan, Italy. We will announce the registration URL on March 30, 2020.  Overview Facial landmark localization is a very crucial step in numerous face related applications, such as face alignment for recognition, facial pose estimation, face image synthesis, etc. We are hosting the 2nd 106-point facial landmark localization challenge in conjunction with ICPR 2020.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 11 Mar 2020 21:01:41 +0800</pubDate>
       
       <guid>https://FLLC-ICPR2020.github.io/home/</guid>
-      <description>Latest News  The 2nd grand challenge of 106-point facial landmark localization will be held in conjunction with the International Conference on Pattern Recognition (ICPR) 2020, Milan, Italy. We will announce the registration URL on March 30, 2020.  Overview Facial landmark localization is a very crucial step in numerous face related applications, such as face alignment for recognition, facial pose estimation, face image synthesis, etc. We are hosting the 2nd 106-point facial landmark localization competition in conjunction with ICPR 2020.</description>
+      <description>Latest News  The 2nd grand challenge of 106-point facial landmark localization will be held in conjunction with the International Conference on Pattern Recognition (ICPR) 2020, Milan, Italy. We will announce the registration URL on March 30, 2020.  Overview Facial landmark localization is a very crucial step in numerous face related applications, such as face alignment for recognition, facial pose estimation, face image synthesis, etc. We are hosting the 2nd 106-point facial landmark localization challenge in conjunction with ICPR 2020.</description>
     </item>
     
     <item>
@@ -35,9 +35,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://FLLC-ICPR2020.github.io/dataset/</guid>
-      <description>Training data The dataset is an incremental of JD-landmark [1-7], consisting of about 20,000 images with 106-point landmark annotation. The images and landmarks will be released on March 30, 2020.
-Validation data It consists of 2,000 images, covering large variations of pose, expression and occlusion, are selected from open source web face dataset [8]. The images without ground truth will be released on April 7, 2020.
-Test data It contains 2,000 web face images as well.</description>
+      <description>Training data The dataset is an incremental of JD-landmark [1-7], consisting of about 20,000 images with 106-point landmark annotation. Different to JD-landmark, all of the incremental samples are from real-world data with human annotation, without any algo-generated ones. The images and landmarks will be released on March 30, 2020.
+Validation data It consists of 2,000 images, covering large variations of pose, expression and occlusion, are selected from open source web face dataset [8].</description>
     </item>
     
     <item>
