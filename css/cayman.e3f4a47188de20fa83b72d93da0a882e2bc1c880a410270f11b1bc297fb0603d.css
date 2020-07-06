@@ -102,9 +102,10 @@ a {
       text-align: justify;} }
   @media screen and (max-width: 42em) {
     .main-content {
+      text-align: justify;
       padding: 2rem 1rem;
       font-size: 1rem; 
-      text-align: justify;} }
+      } }
   .main-content img {
     max-width: 100%; }
   .main-content h1,
