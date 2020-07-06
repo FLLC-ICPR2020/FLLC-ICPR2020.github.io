@@ -26,7 +26,7 @@
       <pubDate>Wed, 11 Mar 2020 21:01:41 +0800</pubDate>
       
       <guid>https://FLLC-ICPR2020.github.io/home/</guid>
-      <description>Latest News  2020/07/05: The challenge will begin on July 15, 2020. Participants can register and download the training data on [http] then. 2020/03/26: Given the COVID-19 situation in Italy and all over the globe, the ICPR 2020 Chairs have decided to shift the Conference schedule to 10-15 January 2021, and our competition is also decided to be postponed. The new schedule will be announced ASAP. 2020/03/16: The webpage is available, and we will announce the registration URL on March 30, 2020.</description>
+      <description>Overview Facial landmark localization is a very crucial step in numerous face related applications, such as face alignment for recognition, facial pose estimation, face image synthesis, etc. We are hosting the 2nd 106-point facial landmark localization challenge in conjunction with ICPR 2020. The purpose is to make effort towards benchmarking lightweight facial landmark localization, which enables efficient system deployment. Different to the 1st challenge, the challenging dataset contains more than 24,000 images with larger variations in identity, pose, expression and occlusion.</description>
     </item>
     
     <item>
