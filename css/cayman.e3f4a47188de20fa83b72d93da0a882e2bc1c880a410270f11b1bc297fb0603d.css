@@ -85,7 +85,8 @@ a {
 .main-content {
   word-wrap: break-word; }
   .main-content :first-child {
-    margin-top: 0; }
+    margin-top: 0;
+    text-align:justify; }
   @media screen and (min-width: 64em) {
     .main-content {
       max-width: 64rem;
