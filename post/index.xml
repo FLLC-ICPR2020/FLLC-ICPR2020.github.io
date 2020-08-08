@@ -6,18 +6,18 @@
     <description>Recent content in Posts on FLLC-ICPR2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2020 00:01:07 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 21:01:41 +0800</lastBuildDate>
     
 	<atom:link href="https://FLLC-ICPR2020.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Home</title>
+      <title></title>
       <link>https://FLLC-ICPR2020.github.io/post/home/</link>
-      <pubDate>Fri, 13 Mar 2020 00:01:07 +0800</pubDate>
+      <pubDate>Wed, 11 Mar 2020 21:01:41 +0800</pubDate>
       
       <guid>https://FLLC-ICPR2020.github.io/post/home/</guid>
-      <description>Latest News  The 2nd grand challenge of 106-point facial landmark localization will be held in conjunction with the International Conference on Pattern Recognition (ICPR) 2020, Milan, Italy. We will announce the registration URL on March 30, 2020.  Overview Facial landmark localization is a very crucial step in numerous face related applications, such as face alignment for recognition, facial pose estimation, face image synthesis, etc. We are hosting the 2nd 106-point facial landmark localization challenge in conjunction with ICPR 2020.</description>
+      <description>Latest News  2020/08/08: The leaderboard has been updated. Welcome to submit results for evaluation! 2020/08/08: The 1st International Workshop on Human and Vehicle Analysis for Intelligent Urban Computing is open https://havaiuc.github.io/. Welcome to submit papers! 2020/07/13: The challenge starts now！You can register and download the training data from here. 2020/03/26: Given the COVID-19 situation in Italy and all over the globe, the ICPR 2020 Chairs have decided to shift the Conference schedule to 10-15 January 2021, and our competition is also decided to be postponed.</description>
     </item>
     
   </channel>
