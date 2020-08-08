@@ -54,7 +54,7 @@ Validation data It consists of 2,000 images, which are selected from open source
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://FLLC-ICPR2020.github.io/leaderboard/</guid>
-      <description></description>
+      <description>Leaderboard    Rank Team Name Affiliation AUC (@0.08) Failure rate (@0.08) NME     1 xjtu_mtcv Xi’an Jiaotong University 71.82 0.10 2.26   2 akx Imperial-Vision Technology 61.92 4.20 3.29   - Baseline - 65.10 0.40 2.80     </description>
     </item>
     
   </channel>
