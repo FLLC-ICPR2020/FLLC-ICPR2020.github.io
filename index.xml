@@ -54,7 +54,7 @@ Validation data It consists of 2,000 images, which are selected from open source
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://FLLC-ICPR2020.github.io/leaderboard/</guid>
-      <description>Leaderboard    Rank Team Name Affiliation AUC (@0.08) Failure rate (@0.08) NME     1 mmj - 79.70 0.25 1.64   2 NOONE UCAS 79.54 0.00 1.64   3 xjtu_mtcv Xi’an Jiaotong University 78.06 0.25 1.72   4 SMILE Xi’an Jiaotong University 77.12 0.00 1.70   5 lhb - 77.12 0.45 1.77   6 Furtherwill Southeast University 76.40 0.75 1.76   7 aiface - 75.</description>
+      <description>Leaderboard    Rank Team Name Affiliation AUC (@0.08) Failure rate (@0.08) NME     1 mmj - 79.70 0.25 1.64   2 NOONE UCAS 79.54 0.00 1.64   3 xjtu_mtcv Xi’an Jiaotong University 78.06 0.25 1.72   4 IMMT - 77.24 0.15 1.86   5 SMILE Xi’an Jiaotong University 77.12 0.00 1.70   6 lhb - 77.12 0.45 1.77   7 Furtherwill Southeast University 76.</description>
     </item>
     
   </channel>
